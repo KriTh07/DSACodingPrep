@@ -1,4 +1,4 @@
-# ✅ THIS REPOSITORY CONTAINS COMPLETE DSA PREP LIST for SDET INTERVIEWS (WITH STATUS)
+# This Repo contains complete DSA Prep List (with Status) for all the SDET interviews
 ## **Including**
 👉 Sliding Window problems
 👉 Two-pointer problems
