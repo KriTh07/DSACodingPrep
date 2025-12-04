@@ -9,14 +9,21 @@ public class RotateArray {
     public static void main(String[] args) {
         int[] nums = {1,2,3,4,5,6,7};
         rotate(nums, 3);
+
+        // Print result
         for (int x : nums) System.out.print(x + " ");
     }
     public static void rotate(int[] nums, int k) {
         int n = nums.length;
         k = k % n; // normalize
 
+        // Reverse whole array
         reverse(nums, 0, n - 1);
+
+        // Reverse first k elements
         reverse(nums, 0, k - 1);
+
+        // Reverse remaining elements
         reverse(nums, k, n - 1);
     }
     private static void reverse(int[] arr, int left, int right) {

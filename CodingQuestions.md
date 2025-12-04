@@ -27,30 +27,30 @@
 
 ## **B. Strings (8)**
 
-| # | Topic                                     | Status        |
-|---|-------------------------------------------|---------------|
+| # | Topic                                     | Status       |
+|---|-------------------------------------------|--------------|
 | 1 | Anagram check                             | ✔️ Completed |
-| 2 | Longest substring w/o repeating chars     | ⏳ Pending   |
+| 2 | Longest substring w/o repeating chars     | ✔️ Completed |
 | 3 | Reverse words in a string                 | ✔️ Completed |
 | 4 | Palindrome check                          | ✔️ Completed |
-| 5 | Valid parentheses                         | ⏳ Pending   |
-| 6 | First non-repeating character             | ⏳ Pending   |
+| 5 | Valid parentheses                         | ✔️ Completed |
+| 6 | First non-repeating character             | ✔️ Completed |
 | 7 | Count vowels and consonants               | ✔️ Completed |
-| 8 | String compression                        | ⏳ Pending   |
+| 8 | String compression                        | ✔️ Completed |
 | 9 | Find the longest common substring/pattern | ✔️ Completed |
 
 ---
 
 ## **C. HashMap + HashSet (7)**
 
-| # | Topic                    | Status        |
-|---|--------------------------|---------------|
+| # | Topic                    | Status       |
+|---|--------------------------|--------------|
 | 1 | Frequency of characters  | ✔️ Completed |
-| 2 | Group Anagrams           | ⏳ Pending   |
+| 2 | Group Anagrams           | ✔️ Completed |
 | 3 | Two Sum using HashMap    | ✔️ Completed |
-| 4 | Check duplicates in array| ⏳ Pending   |
-| 5 | First repeated element   | ⏳ Pending   |
-| 6 | Most frequent element    | ⏳ Pending   |
+| 4 | Check duplicates in array| ✔️ Completed |
+| 5 | First repeated element   | ✔️ Completed |
+| 6 | Most frequent element    | ✔️ Completed |
 | 7 | Word count in sentence   | ✔️ Completed |
 
 ---

@@ -1,6 +1,7 @@
 package org.SimpleCodingQuestions.Strings;
 import java.util.Set;
 import java.util.HashSet;
+
 public class FindLongestCommonSubstringORPattern {
     public static void main(String[] args){
         String input = "dfjdhg kgkdfjhg kjgfdkgh djfhdkgj";
