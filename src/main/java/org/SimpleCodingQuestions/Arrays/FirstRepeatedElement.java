@@ -7,7 +7,7 @@ public class FirstRepeatedElement {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 4, 1};
         Set<Integer> set = new HashSet<>();
-        int firstRepeated = -1;
+        Integer firstRepeated = null;
         for (int n : nums) {
             if (!set.add(n)) {
                 firstRepeated = n;

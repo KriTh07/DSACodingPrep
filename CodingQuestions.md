@@ -60,10 +60,10 @@
 | # | Topic                                       | Status        |
 |---|---------------------------------------------|---------------|
 | 1 | 3Sum (concept only)                         | ⏳ Pending   |
-| 2 | Remove elements                             | ⏳ Pending   |
+| 2 | Remove elements                             | ✔️ Completed |
 | 3 | Merge intervals (basics)                    | ⏳ Pending   |
-| 4 | Squares of sorted array                     | ⏳ Pending   |
-| 5 | Valid palindrome (ignore non-alphanumeric)  | ⏳ Pending   |
+| 4 | Squares of sorted array                     | ✔️ Completed |
+| 5 | Valid palindrome (ignore non-alphanumeric)  | ✔️ Completed |
 
 ---
 
@@ -73,7 +73,7 @@
 |---|------------------------|---------------|
 | 1 | Min Stack              | ⏳ Pending   |
 | 2 | Queue using stacks     | ⏳ Pending   |
-| 3 | Next greater element   | ⏳ Pending   |
+| 3 | Next greater element   | ✔️ Completed |
 | 4 | Balanced brackets      | ⏳ Pending   |
 | 5 | Evaluate postfix expr  | ⏳ Pending   |
 

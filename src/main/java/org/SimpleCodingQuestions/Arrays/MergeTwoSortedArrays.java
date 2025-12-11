@@ -8,25 +8,25 @@ public class MergeTwoSortedArrays {
         int[] arr1 = {1, 4, 6, 8};
         int[] arr2 = {3, 5, 6, 7};
 
-        int i = 0, j = 0;
-        List<Integer> merged = new ArrayList<>();
+        int i = 0; int j = 0;
 
-        while (i < arr1.length && j < arr2.length) {
-            if (arr1[i] <= arr2[j]) {
-                merged.add(arr1[i]);
-                i++;
-            } else {
+        List<Integer> merged = new ArrayList<>(); //for allowing duplicates and preserve order
+        //Set<Integer> merged = new HashSet<>(); //for no duplicate elements
+        while (i < arr1.length && j < arr2.length){
+            if(arr1[i] <= arr2[j]){
+               merged.add(arr1[i]);
+               i++;
+            }
+            else{
                 merged.add(arr2[j]);
                 j++;
             }
         }
-        // Add remaining elements
-        while (i < arr1.length) {
+        while(i<arr1.length){
             merged.add(arr1[i]);
             i++;
         }
-
-        while (j < arr2.length) {
+        while(j<arr2.length){
             merged.add(arr2[j]);
             j++;
         }
